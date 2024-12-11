@@ -1,4 +1,4 @@
-# Bonjour!, moi c'est Anthony ! 👋🏼:
+# Bonjour, moi c'est Anthony ! 👋🏼:
 Développeur apprenti passionné,<br/>je suis activement à la recherche d’un contrat de professionnalisation de Janvier 2025 à Septembre 2026.
 
 # 💻 Tech Stack:
