@@ -1,5 +1,4 @@
 # Bonjour, moi c'est Anthony ! 👋🏼:
-Développeur apprenti passionné,<br/>je suis activement à la recherche d’un contrat de professionnalisation de Janvier 2025 à Septembre 2026.
 
 # 💻 Tech Stack:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
